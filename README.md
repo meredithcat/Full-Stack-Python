@@ -2,11 +2,11 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+Welcome to your first term at Make School! This course is a combination of our CS 1.1 and BEW 1.1 courses, with topics interlaced in order to give you a cohesive and complimentary learning experience. You'll learn how to turn specifications and word problems into code, build websites from the ground up, get familiar with a new language, and everything in between. 
 
-### Why you should know this (optional)
+### Why you should know this
 
-Explain why students should care to learn the material presented in this class.
+This course will provide you with the first set of foundational knowledge you will need to be a successful software engineer. Getting familiar with your first stack and learning core CS and BEW concepts will set you up for success in the rest of your courses here at Make School, as well as your engineering career.
 
 ## Learning Outcomes
 
@@ -47,36 +47,36 @@ By the end of the course, you will be able to ...
 - _Lab Time:_ Tuesday, 9:30-11:00am
 - _Lab Time:_ Thursday, 3:30-5:00pm 
 
-| Class |      Date     |          Quiz Topics          |                 Topics                   |
-|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|
-|  1 |   Mon, Aug 26    | -                             | Welcome + Static website                 |
-|  2 |   Tue, Aug 27    | -                             | Git & GitHub                             |
-|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design   |
-|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists                     |
-|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day                 |
-|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists        | Pseudocode & Flowchart Diagrams |
-|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Request-Response Cycle & MVC Architecture |
-|  7 |   Thu, Sept 5    | -                             | Intro to Flask |
-|  8 |   Mon, Sept 9    | -                             | Interview Communication & Problem Solving Skills |
-|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling     |
-|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | Debugging & Testing |
-|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask           | URLs, HTTP, REST & Error Handling |
-|  12 |   Mon, Sept 16  | -                             | Testing RESTful Routes                   |
-|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1      |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes          | Document-based Databases |
-|  15 |   Thu, Sept 19  | -                             | ERDs, Resource Associations, & MongoDB   |
-|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1    | OOP 2: Encapsulation & Inheritance  |
-|  17 |   Tue, Sept 24  | -                             | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB    | Project Planning & User-Centered Development |  
-| 19 |   Thu, Sept 26   | OOP 2 <br/> OOP 3                             | Herd Immunity Simulation |  
-| 20 |   Mon, Sept 30   | -                             | The DOM & Bootstrap                      |
-| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap   | Contractor Project Lab Day|
-| 22 |   Wed, Oct 2     | -                             | RESTful APIs & Deployment Environments   |
-| 23 |   Thu, Oct 3     | -                             | Computer Components                      |
-| 24 |   Mon, Oct 7     | -                             |  Herd Immunity Lab                       |
-| 25 |   Tue, Oct 8     | -                             |  CPU Instructions & Memory               |
-| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | Project Lab Day |
-| 27 |   Thu, Oct 10    | -                             | Final Contractor Project Presentations   |
+| Class |      Date     |          Quiz Topics          |       Assignments Due         |                 Topics                   |
+|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|:-----------------------------:|
+|  1 |   Mon, Aug 26    | -                             |          -                                 | Welcome + Static website |
+|  2 |   Tue, Aug 27    | -                             |          -                                 | Git & GitHub |
+|  3 |   Wed, Aug 28    | -                             |          -                                 | Variables, Functions, & Program Design |
+|  4 |   Thu, Aug 29    | -                             | Captain Rainbow's Color Checklist Tutorial | Control Flow & Lists |
+|  - |   Mon, Sept 2    | -                             |         -                                  | **NO CLASS** - Labor Day |
+|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Mad Libs Project | Pseudocode & Flowchart Diagrams |
+|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | -                                      | Request-Response Cycle & MVC Architecture |
+|  7 |   Thu, Sept 5    | -                             | -                                          | Intro to Flask |
+|  8 |   Mon, Sept 9    | -                             | Spaceman Project                           | Interview Communication & Problem Solving Skills |
+|  9 |   Tue, Sept 10   | -                             |   -                                        | Code Quality, Reuse & Error Handling |
+|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
+|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | URLs, HTTP, REST & Error Handling |
+|  12 |   Mon, Sept 16  | -                             |   -                                        | Testing RESTful Routes |
+|  13 |   Tue, Sept 17  | -                             |   -                                        | Object-Oriented Programming (OOP) 1 |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project | Document-based Databases |
+|  15 |   Thu, Sept 19  | -                             |  -                                         | ERDs, Resource Associations, & MongoDB |
+|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 |  -                                       | OOP 2: Encapsulation & Inheritance |
+|  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial            | OOP 3: Polymorphism |
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Rotten Potatoes Tutorial | Project Planning & User-Centered Development|
+| 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  -                                         |  Herd Immunity Simulation |
+| 20 |   Mon, Sept 30   | -                             |  -                                         | The DOM & Bootstrap |
+| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | - | Contractor Project Lab Day |
+| 22 |   Wed, Oct 2     | -                             | -                                          | RESTful APIs & Deployment Environments |
+| 23 |   Thu, Oct 3     | -                             | -                                          | Computer Components |
+| 24 |   Mon, Oct 7     | -                             | -                                          | Herd Immunity Lab |
+| 25 |   Tue, Oct 8     | -                             | -                                          | CPU Instructions & Memory |
+| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | - | Project Lab Day |
+| 27 |   Thu, Oct 10    | - | Herd Immunity Simulation Project <br/> Contractor Project | Final Contractor Project Presentations |
 
 
 
@@ -94,6 +94,8 @@ Quizzes will cover all topics outlined in the schedule, with the **exception** o
 
 ### Tutorials
 
+**Note: Please reference the above schedule for tutorial due dates.**
+
 - [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist): Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
 - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler): Apply your OOP knowledge by building a super hero game!
 - [Rotten Potatoes](https://www.makeschool.com/academy/track/rotten-potatoes---movie-reviews-with-express-js): Build a movie review website from the ground up!
@@ -101,7 +103,9 @@ Quizzes will cover all topics outlined in the schedule, with the **exception** o
 
 ### Projects
 
-**Note:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A projet will not be considered complete unless it satisfies all of the the requirements as outlined in the spec. 
+**Note 1: Please reference the above schedule for project due dates.**
+
+**Note 2:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A project will not be considered complete unless it satisfies all of the the requirements as outlined in the spec. 
 
 - [GIF Search](https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing): Build a website that searches GIFs using the Tenor API
 - [Mad Libs](https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing): Build a mad libs game in your terminal using Python
