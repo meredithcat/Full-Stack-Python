@@ -1,4 +1,4 @@
-# Title
+# Full Stack Python
 
 ## Course Description
 
@@ -8,111 +8,89 @@ Describe your course here. A short elevator pitch for the course, use positive, 
 
 Explain why students should care to learn the material presented in this class.
 
-## Prerequisites:  
-
-- [Prerequisite 1]()
-- [Prerequisite 2]()
-
 ## Learning Outcomes
-
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+### CS 1.1
+1. Explain how to break down a problem into a programable algorithm.
+1. Translate user stories and requirements into a program.
+1. Practice core programming concepts including data structures, control flow, repetition, functions, and object oriented programming.
+1. Implement core programming concepts in Python.
+1. Implement programming best practices, debugging, and testing in Python.
+
+### BEW 1.1
+
+1. Explain the MVC architecture for web server development.
+1. Use Resourceful Routes and explain the importance of Resourceful web architecture.
+1. Read and write to a Document-Based (NoSQL) database using a Object Document Mapper (ODM)
+1. Use Web application frameworks, middleware packages, and server-side templating.
+1. Implement controller testing patterns.
 
 ## Schedule
 
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 23]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+**Course Dates:** Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE AUGUST 23]**
-**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
+**Class Times:** 
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+**Section A1 and A2:**
+
+- Monday, Wednesday 1:30–3:20pm 
+- Tuesday, Thursday, 9:30-11:20am
+- _Lab Time:_ Tuesday, 3:30-5:00pm
+- _Lab Time:_ Thursday, 1:30-3:00pm
+
+**Section B1 and B2:**
+
+- Monday, Wednesday 3:30–5:20pm 
+- Tuesday, Thursday, 1:30-3:20pm
+- _Lab Time:_ Tuesday, 9:30-11:00am
+- _Lab Time:_ Thursday, 3:30-5:00pm 
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Aug 26                          | [Lesson 1] |
-|  2 |   Wed, Aug 28                            | [Lesson 2] |
+|  1 |   Mon, Aug 26                          | Welcome + Static website (static HTML/basic CSS, chrome inspector) |
+|  2 |   Tue, Aug 27                          | Git & GitHub |
+|  3 |   Wed, Aug 28                            | Variables, Functions, and Program Design |
+|  4 |   Thu, Aug 29                            | Control Flow and Lists |
 |  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
-|  3 |   Wed, Sept 4                            | [Lesson 3] |
-|  4 |   Mon, Sept 9                         | [Lesson 4] |
-|  5 |   Wed, Sept 11                            | [Lesson 5] |
-|  6 |   Mon, Sept 16                         | [Lesson 6] |
-|  7 |   Wed, Sept 18                            | [Lesson 7] |
-|  8 |   Mon, Sept 23                           | [Lesson 8] |
-|  9 |   Wed, Sept 25                             | [Lesson 9] |  
-| 10 |   Mon, Sept 30                         | [Lesson 10]|
-| 11 |   Wed, Oct 2                         | [Lesson 11]  |
-| 12 |   Mon, Oct 7                         |  [Lesson 12] |
-| 13 |   Wed, Oct 9                         | Final Exam/Presentations  |
+|  5 |   Tue, Sept 3                        | Pseudocode and Flowchart Diagrams |
+|  6 |   Wed, Sept 4                            | Request-Response Cycle and MVC Architecture |
+|  7 |   Thu, Sept 5                            | Intro to Flask |
+|  8 |   Mon, Sept 9                         |  Interview Communication & Problem Solving Skills |
+|  9 |   Tue, Sept 10                         | Code Quality, Reuse and Error Handling |
+|  10 |   Wed, Sept 11                            | Debugging and Testing |
+|  11 |   Thu, Sept 12                            | URLs, HTTP, REST and Error Handling |
+|  12 |   Mon, Sept 16                         | Testing RESTful Routes |
+|  13 |   Tue, Sept 17                         | Object-Oriented Programming (OOP) |
+|  14 |   Wed, Sept 18                            | Document-based Databases |
+|  15 |   Thu, Sept 19                            | ERDs, Resource Associations, and MongoDB |
+|  16 |   Mon, Sept 23                           | OOP 2: Encapsulation and Inheritance |
+|  17 |   Tue, Sept 24                           | OOP 3: Polymorphism |
+|  18 |   Wed, Sept 25                             | Project Planning and User-Centered Development |  
+| 19 |   Thu, Sept 26                             | Herd Immunity Simulation |  
+| 20 |   Mon, Sept 30                         | The DOM & Bootstrap|
+| 21 |   Tue, Oct 1                         | Contractor Project Lab Day|
+| 22 |   Wed, Oct 2                         | RESTful APIs & Deployment Environments  |
+| 23 |   Thu, Oct 3                         | Computer Components  |
+| 24 |   Mon, Oct 7                         |  Herd Immunity Lab |
+| 25 |   Tue, Oct 8                         |  CPU Instructions and Memory |
+| 26 |   Wed, Oct 9                         | Project Lab Day |
+| 27 |   Thu, Oct 10                         | Final Contractor Project Presentations |
 
 
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE AUGUST 23]**
-**Course Dates:** Tuesday, August 27 – Thursday, October 10, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Aug 27                          | [Lesson 1] |
-|  2 |   Thu, Aug 29                            | [Lesson 2] |
-|  3 |   Tue, Sept 3                        | [Lesson 3] |
-|  4 |   Thu, Sept 5                            | [Lesson 4] |
-|  5 |   Tue, Sept 10                         | [Lesson 5] |
-|  6 |   Thu, Sept 12                            | [Lesson 6] |
-|  7 |   Tue, Sept 17                         | [Lesson 7] |
-|  8 |   Thu, Sept 19                            | [Lesson 8] |
-|  9 |   Tue, Sept 24                           | [Lesson 9] |
-| 10 |   Thu, Sept 26                             | [Lesson 10] |  
-| 11 |   Tue, Oct 1                         | [Lesson 11]|
-| 12 |   Thu, Oct 3                         | [Lesson 12]  |
-| 13 |   Tue, Oct 8                         |  [Lesson 13] |
-| 14 |   Thu, Oct 3                         | Final Exam/Presentations |
-
-
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
 
 ## Class Assignments
 
 ### Tutorials
 
-- [Do Cool Stuff Tutorial]()
+- 
 
 ### Projects
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric - Built Using Digital Rubrics Tool](https://www.makeschool.com/admin/rubrics)
+- 
 
 ## Evaluation
-### **[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
-To pass this course you must meet the following requirements:
-
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
 
 ## Make School Course Policies
 
