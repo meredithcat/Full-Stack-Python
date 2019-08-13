@@ -47,36 +47,36 @@ By the end of the course, you will be able to ...
 - _Lab Time:_ Tuesday, 9:30-11:00am
 - _Lab Time:_ Thursday, 3:30-5:00pm 
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Aug 26                          | Welcome + Static website (static HTML/basic CSS, chrome inspector) |
-|  2 |   Tue, Aug 27                          | Git & GitHub |
-|  3 |   Wed, Aug 28                            | Variables, Functions, and Program Design |
-|  4 |   Thu, Aug 29                            | Control Flow and Lists |
-|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
-|  5 |   Tue, Sept 3                        | Pseudocode and Flowchart Diagrams |
-|  6 |   Wed, Sept 4                            | Request-Response Cycle and MVC Architecture |
-|  7 |   Thu, Sept 5                            | Intro to Flask |
-|  8 |   Mon, Sept 9                         |  Interview Communication & Problem Solving Skills |
-|  9 |   Tue, Sept 10                         | Code Quality, Reuse and Error Handling |
-|  10 |   Wed, Sept 11                            | Debugging and Testing |
-|  11 |   Thu, Sept 12                            | URLs, HTTP, REST and Error Handling |
-|  12 |   Mon, Sept 16                         | Testing RESTful Routes |
-|  13 |   Tue, Sept 17                         | Object-Oriented Programming (OOP) |
-|  14 |   Wed, Sept 18                            | Document-based Databases |
-|  15 |   Thu, Sept 19                            | ERDs, Resource Associations, and MongoDB |
-|  16 |   Mon, Sept 23                           | OOP 2: Encapsulation and Inheritance |
-|  17 |   Tue, Sept 24                           | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25                             | Project Planning and User-Centered Development |  
-| 19 |   Thu, Sept 26                             | Herd Immunity Simulation |  
-| 20 |   Mon, Sept 30                         | The DOM & Bootstrap|
-| 21 |   Tue, Oct 1                         | Contractor Project Lab Day|
-| 22 |   Wed, Oct 2                         | RESTful APIs & Deployment Environments  |
-| 23 |   Thu, Oct 3                         | Computer Components  |
-| 24 |   Mon, Oct 7                         |  Herd Immunity Lab |
-| 25 |   Tue, Oct 8                         |  CPU Instructions and Memory |
-| 26 |   Wed, Oct 9                         | Project Lab Day |
-| 27 |   Thu, Oct 10                         | Final Contractor Project Presentations |
+| Class |      Date     |          Quiz Topics          |        Topics                  |
+|:-----:|:-------------:|:-----------------------------:|:------------------------------:|
+|  1 |   Mon, Aug 26    | -                             | Welcome + Static website |
+|  2 |   Tue, Aug 27    | -                             | Git & GitHub |
+|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design |
+|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists |
+|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day |
+|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists                             | Pseudocode & Flowchart Diagrams |
+|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Request-Response Cycle & MVC Architecture |
+|  7 |   Thu, Sept 5    | -                             | Intro to Flask |
+|  8 |   Mon, Sept 9    | -                             | Interview Communication & Problem Solving Skills |
+|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling |
+|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | Debugging & Testing |
+|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask                             | URLs, HTTP, REST & Error Handling |
+|  12 |   Mon, Sept 16  | -                             | Testing RESTful Routes |
+|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1 |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes                             | Document-based Databases |
+|  15 |   Thu, Sept 19  | -                             | ERDs, Resource Associations, & MongoDB |
+|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1    | OOP 2: Encapsulation & Inheritance |
+|  17 |   Tue, Sept 24  | -                             | OOP 3: Polymorphism |
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB                              | Project Planning & User-Centered Development |  
+| 19 |   Thu, Sept 26   | OOP 2 <br/> OOP 3                             | Herd Immunity Simulation |  
+| 20 |   Mon, Sept 30   | -                             | The DOM & Bootstrap|
+| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap                              | Contractor Project Lab Day|
+| 22 |   Wed, Oct 2     | -                             | RESTful APIs & Deployment Environments  |
+| 23 |   Thu, Oct 3     | -                             | Computer Components  |
+| 24 |   Mon, Oct 7     | -                             |  Herd Immunity Lab |
+| 25 |   Tue, Oct 8     | -                             |  CPU Instructions & Memory |
+| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | Project Lab Day |
+| 27 |   Thu, Oct 10    | -                             | Final Contractor Project Presentations |
 
 
 
@@ -111,6 +111,15 @@ Quizzes will cover all topics outlined in the schedule, with the **exception** o
 
 ## Evaluation
 
+Due to the combined nature of this course, evaluation will be based on the evaluation criteria of each individual course. **To pass this class, you must meet the evaluation criteria of both courses.** If you satisfy the criteria for one course but not the other, you will need to re-take that course in a future term.
+
+For example, if by the end of the term you meet the evaluation criteria for CS 1.1 but not BEW 1.1, you would have to take BEW 1.1 in a future term.
+
+### Individual Evaluation Criteria
+
+#### [CS 1.1](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming#evaluation)
+
+#### [BEW 1.1](https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture#evaluation)
 
 ## Make School Course Policies
 
