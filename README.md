@@ -82,15 +82,35 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
+### Quizzes
+
+There will be **11 quizzes** held during this course. These will be in place of a final exam. Your lowest two quiz scores will be dropped, so your total quiz score will be based off of the other nine.
+
+Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
+
+- Any lab days
+- Final Contractor Project Presentations
+- Herd Immunity Simulation
+
 ### Tutorials
 
-- 
+- [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist): Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
+- [Super Hero Team Dueler](http://make.sc/superhero-team-dueler): Apply your OOP knowledge by building a super hero game!
+- [Rotten Potatoes](https://www.makeschool.com/academy/track/rotten-potatoes---movie-reviews-with-express-js): Build a movie review website from the ground up!
+
 
 ### Projects
 
-- 
+**Note:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A projet will not be considered complete unless it satisfies all of the the requirements as outlined in the spec. 
+
+- [GIF Search](https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing): Build a website that searches GIFs using the Tenor API
+- [Mad Libs](https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing): Build a mad libs game in your terminal using Python
+- [Spaceman](https://docs.google.com/document/d/1y1WPgJERAuLRJjeSXTf5znjhsrtPjnzPKfD03_f6v7w/edit?usp=sharing): Build a word guessing game in your terminal using Python
+- [Herd Immunity Simulation](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/HerdImmunity): Apply all of your learnings from your CS lessons to create a simulation that models how a virus moves through a population where some (but not all) of a population is vaccinated against this virus.
+- [Contractor Project](https://docs.google.com/document/d/1C8eOyLBeGMKJ2y50QwLU5tWjNb2JVcpAE4khUBIfm0U/edit?usp=sharing): Apply all of your learnings from your BEW lessons to create a website for a store of your choosing!
 
 ## Evaluation
+
 
 ## Make School Course Policies
 
