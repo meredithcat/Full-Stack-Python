@@ -47,36 +47,36 @@ By the end of the course, you will be able to ...
 - _Lab Time:_ Tuesday, 9:30-11:00am
 - _Lab Time:_ Thursday, 3:30-5:00pm 
 
-| Class |      Date     |          Quiz Topics          |        Topics                  |
-|:-----:|:-------------:|:-----------------------------:|:------------------------------:|
-|  1 |   Mon, Aug 26    | -                             | Welcome + Static website |
-|  2 |   Tue, Aug 27    | -                             | Git & GitHub |
-|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design |
-|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists |
-|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day |
-|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists                             | Pseudocode & Flowchart Diagrams |
+| Class |      Date     |          Quiz Topics          |                 Topics                   |
+|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|
+|  1 |   Mon, Aug 26    | -                             | Welcome + Static website                 |
+|  2 |   Tue, Aug 27    | -                             | Git & GitHub                             |
+|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design   |
+|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists                     |
+|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day                 |
+|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists        | Pseudocode & Flowchart Diagrams |
 |  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Request-Response Cycle & MVC Architecture |
 |  7 |   Thu, Sept 5    | -                             | Intro to Flask |
 |  8 |   Mon, Sept 9    | -                             | Interview Communication & Problem Solving Skills |
-|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling |
+|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling     |
 |  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | Debugging & Testing |
-|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask                             | URLs, HTTP, REST & Error Handling |
-|  12 |   Mon, Sept 16  | -                             | Testing RESTful Routes |
-|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1 |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes                             | Document-based Databases |
-|  15 |   Thu, Sept 19  | -                             | ERDs, Resource Associations, & MongoDB |
-|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1    | OOP 2: Encapsulation & Inheritance |
+|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask           | URLs, HTTP, REST & Error Handling |
+|  12 |   Mon, Sept 16  | -                             | Testing RESTful Routes                   |
+|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1      |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes          | Document-based Databases |
+|  15 |   Thu, Sept 19  | -                             | ERDs, Resource Associations, & MongoDB   |
+|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1    | OOP 2: Encapsulation & Inheritance  |
 |  17 |   Tue, Sept 24  | -                             | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB                              | Project Planning & User-Centered Development |  
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB    | Project Planning & User-Centered Development |  
 | 19 |   Thu, Sept 26   | OOP 2 <br/> OOP 3                             | Herd Immunity Simulation |  
-| 20 |   Mon, Sept 30   | -                             | The DOM & Bootstrap|
-| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap                              | Contractor Project Lab Day|
-| 22 |   Wed, Oct 2     | -                             | RESTful APIs & Deployment Environments  |
-| 23 |   Thu, Oct 3     | -                             | Computer Components  |
-| 24 |   Mon, Oct 7     | -                             |  Herd Immunity Lab |
-| 25 |   Tue, Oct 8     | -                             |  CPU Instructions & Memory |
+| 20 |   Mon, Sept 30   | -                             | The DOM & Bootstrap                      |
+| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap   | Contractor Project Lab Day|
+| 22 |   Wed, Oct 2     | -                             | RESTful APIs & Deployment Environments   |
+| 23 |   Thu, Oct 3     | -                             | Computer Components                      |
+| 24 |   Mon, Oct 7     | -                             |  Herd Immunity Lab                       |
+| 25 |   Tue, Oct 8     | -                             |  CPU Instructions & Memory               |
 | 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | Project Lab Day |
-| 27 |   Thu, Oct 10    | -                             | Final Contractor Project Presentations |
+| 27 |   Thu, Oct 10    | -                             | Final Contractor Project Presentations   |
 
 
 
@@ -84,7 +84,7 @@ By the end of the course, you will be able to ...
 
 ### Quizzes
 
-There will be **11 quizzes** held during this course. These will be in place of a final exam. Your lowest two quiz scores will be dropped, so your total quiz score will be based off of the other nine.
+There will be **11 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your _total quiz score will be based off of the other nine_.
 
 Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
 
