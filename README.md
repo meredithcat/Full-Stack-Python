@@ -29,9 +29,11 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
+### Course Dates
 
-**Class Times:** 
+Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
+
+### Class Times
 
 **Section A1 and A2:**
 
@@ -46,6 +48,8 @@ By the end of the course, you will be able to ...
 - Tuesday, Thursday, 1:30-3:20pm
 - _Lab Time:_ Tuesday, 9:30-11:00am
 - _Lab Time:_ Thursday, 3:30-5:00pm 
+
+### Course Calendar
 
 | Class |      Date     |          Quiz Topics          |       Assignments Due         |                 Topics                   |
 |:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|:-----------------------------:|
