@@ -53,36 +53,50 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
 | Class |      Date     |          Quiz Topics          |       Assignments Due         |                 Topics                   |
 |:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|:-----------------------------:|
-|  1 |   Mon, Aug 26    | -                             |          -                                 | Welcome + Static website |
-|  2 |   Tue, Aug 27    | -                             |          -                                 | Git & GitHub |
+|  1 |   Mon, Aug 26    | -                             |          -                                 | [Welcome] + [Static Website] |
+|  2 |   Tue, Aug 27    | -                             |          -                                 | [Git & GitHub] |
 |  3 |   Wed, Aug 28    | -                             |          -                                 | Variables, Functions, & Program Design |
 |  4 |   Thu, Aug 29    | -                             | Captain Rainbow's Color Checklist Tutorial | Control Flow & Lists |
 |  - |   Mon, Sept 2    | -                             |         -                                  | **NO CLASS** - Labor Day |
 |  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Mad Libs Project | Pseudocode & Flowchart Diagrams |
-|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | -                                      | Request-Response Cycle & MVC Architecture |
-|  7 |   Thu, Sept 5    | -                             | -                                          | Intro to Flask |
+|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | -                                      | [Request-Response Cycle & MVC Architecture] |
+|  7 |   Thu, Sept 5    | -                             | -                                          | [Intro to Flask] |
 |  8 |   Mon, Sept 9    | -                             | Spaceman Project                           | Interview Communication & Problem Solving Skills |
 |  9 |   Tue, Sept 10   | -                             |   -                                        | Code Quality, Reuse & Error Handling |
 |  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
-|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | URLs, HTTP, REST & Error Handling |
-|  12 |   Mon, Sept 16  | -                             |   -                                        | Testing RESTful Routes |
+|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | [URLs, HTTP, REST & Error Handling] |
+|  12 |   Mon, Sept 16  | -                             |   -                                        | [Testing RESTful Routes] |
 |  13 |   Tue, Sept 17  | -                             |   -                                        | Object-Oriented Programming (OOP) 1 |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project | Document-based Databases |
-|  15 |   Thu, Sept 19  | -                             |  -                                         | ERDs, Resource Associations, & MongoDB |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project | [Document-based Databases] |
+|  15 |   Thu, Sept 19  | -                             |  -                                         | [ERDs, Resource Associations, & MongoDB] |
 |  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 |  -                                       | OOP 2: Encapsulation & Inheritance |
 |  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial            | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Rotten Potatoes Tutorial | Project Planning & User-Centered Development|
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Rotten Potatoes Tutorial | [Project Planning & User-Centered Development]|
 | 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  -                                         |  Herd Immunity Simulation |
-| 20 |   Mon, Sept 30   | -                             |  -                                         | The DOM & Bootstrap |
+| 20 |   Mon, Sept 30   | -                             |  -                                         | [The DOM & Bootstrap] |
 | 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | - | Contractor Project Lab Day |
-| 22 |   Wed, Oct 2     | -                             | -                                          | RESTful APIs & Deployment Environments |
+| 22 |   Wed, Oct 2     | -                             | -                                          | [RESTful APIs & Deployment Environments] |
 | 23 |   Thu, Oct 3     | -                             | -                                          | Computer Components |
 | 24 |   Mon, Oct 7     | -                             | -                                          | Herd Immunity Lab |
 | 25 |   Tue, Oct 8     | -                             | -                                          | CPU Instructions & Memory |
 | 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | - | Project Lab Day |
 | 27 |   Thu, Oct 10    | - | Herd Immunity Simulation Project <br/> Contractor Project | Final Contractor Project Presentations |
 
+[Welcome]:https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/edit?usp=sharing
 
+<!--- BEW LESSONS -->
+
+[Static Website]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/01-Static-Website
+[Git & GitHub]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/02-Git-and-GitHub
+[Request-Response Cycle & MVC Architecture]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/03-Request-Response-Cycle-and-MVC-Architecture
+[Intro to Flask]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/04-Intro-to-Flask
+[URLs, HTTP, REST & Error Handling]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/05-URLs-HTTP-REST-and-Reading-Errors
+[Testing RESTful Routes]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/06-Testing-RESTful-Routes
+[Document-based Databases]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/07-Document-Based-Databases
+[ERDs, Resource Associations, & MongoDB]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/08-ERDs-Resource-Associations-and-MongoDB
+[Project Planning & User-Centered Development]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/09-Project-Planning-and-User-Centered-Development
+[The DOM & Bootstrap]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/10-The-DOM-and-Bootstrap
+[RESTful APIs & Deployment Environments]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/11-RESTful-APIs-and-Deployment-Environments
 
 ## Class Assignments
 
