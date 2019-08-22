@@ -110,6 +110,16 @@ Quizzes will cover all topics outlined in the schedule, with the **exception** o
 - Final Contractor Project Presentations
 - Herd Immunity Simulation
 
+### Code Reviews and Pair Programming Sessions
+
+Throughout this course, you will be required to seek out **3 code reviews** and conduct **2 pair programming** sessions on specific assignments. **These will be requirements that must be completed for submitting your assginment.** You will learn about code reviews and pair programming in learning sessions during the first few weeks of the term.
+
+For code reviews, you must submit the name of the code reviewer and a link to the commit they reviewed in the tracker.
+
+For pair programming sessions, you must submit the name of your partner in the tracker.
+
+Please refer to class materials to see which assignments require code reviews or pair programming sessions.
+
 ### Tutorials
 
 **Note: Please reference the above schedule for tutorial due dates.**
