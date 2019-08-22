@@ -35,14 +35,14 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
 ### Class Times
 
-**Section A1 and A2:**
+**Section A and B:**
 
 - Monday, Wednesday 1:30–3:20pm 
 - Tuesday, Thursday, 9:30-11:20am
 - _Lab Time:_ Tuesday, 3:30-5:00pm
 - _Lab Time:_ Thursday, 1:30-3:00pm
 
-**Section B1 and B2:**
+**Section C and D:**
 
 - Monday, Wednesday 3:30–5:20pm 
 - Tuesday, Thursday, 1:30-3:20pm
