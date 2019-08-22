@@ -61,16 +61,16 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 |  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Mad Libs Project | Pseudocode & Flowchart Diagrams |
 |  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | -                                      | [Request-Response Cycle & MVC Architecture] |
 |  7 |   Thu, Sept 5    | -                             | -                                          | [Intro to Flask] |
-|  8 |   Mon, Sept 9    | -                             | Spaceman Project                           | Interview Communication & Problem Solving Skills |
+|  8 |   Mon, Sept 9    | -                             | Spaceman Project + Code Review                           | Interview Communication & Problem Solving Skills |
 |  9 |   Tue, Sept 10   | -                             |   -                                        | Code Quality, Reuse & Error Handling |
 |  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
 |  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | [URLs, HTTP, REST & Error Handling] |
 |  12 |   Mon, Sept 16  | -                             |   -                                        | [Testing RESTful Routes] |
 |  13 |   Tue, Sept 17  | -                             |   -                                        | Object-Oriented Programming (OOP) 1 |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project | [Document-based Databases] |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project + Pair Programming Session | [Document-based Databases] |
 |  15 |   Thu, Sept 19  | -                             |  -                                         | [ERDs, Resource Associations, & MongoDB] |
 |  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 |  -                                       | OOP 2: Encapsulation & Inheritance |
-|  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial            | OOP 3: Polymorphism |
+|  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial + Code Review            | OOP 3: Polymorphism |
 |  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Rotten Potatoes Tutorial | [Project Planning & User-Centered Development]|
 | 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  -                                         |  Herd Immunity Simulation |
 | 20 |   Mon, Sept 30   | -                             |  -                                         | [The DOM & Bootstrap] |
@@ -80,7 +80,7 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 | 24 |   Mon, Oct 7     | -                             | -                                          | Herd Immunity Lab |
 | 25 |   Tue, Oct 8     | -                             | -                                          | CPU Instructions & Memory |
 | 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | - | Project Lab Day |
-| 27 |   Thu, Oct 10    | - | Herd Immunity Simulation Project <br/> Contractor Project | Final Contractor Project Presentations |
+| 27 |   Thu, Oct 10    | - | Herd Immunity Simulation Project <br/> Contractor Project + Code Review + Pair Program Session | Final Contractor Project Presentations |
 
 [Welcome]:https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/edit?usp=sharing
 
