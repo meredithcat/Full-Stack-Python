@@ -71,7 +71,7 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 |  15 |   Thu, Sept 19  | -                             |  -                                         | [ERDs, Resource Associations, & MongoDB] |
 |  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 |  -                                       | OOP 2: Encapsulation & Inheritance |
 |  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial + Code Review            | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Rotten Potatoes Tutorial | [Project Planning & User-Centered Development]|
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Playlistr Tutorial | [Project Planning & User-Centered Development]|
 | 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  -                                         |  Herd Immunity Simulation |
 | 20 |   Mon, Sept 30   | -                             |  -                                         | [The DOM & Bootstrap] |
 | 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | - | Contractor Project Lab Day |
@@ -126,7 +126,7 @@ Please refer to class materials to see which assignments require code reviews or
 
 - [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist): Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
 - [Super Hero Team Dueler](http://make.sc/superhero-team-dueler): Apply your OOP knowledge by building a super hero game!
-- [Rotten Potatoes](https://www.makeschool.com/academy/track/rotten-potatoes---movie-reviews-with-express-js): Build a movie review website from the ground up!
+- [Playlistr](https://www.makeschool.com/academy/track/playlistr-video-playlists-with-flask-and-mongodb-1c): Video playlists with Flask and MongoDB!
 
 
 ### Projects
