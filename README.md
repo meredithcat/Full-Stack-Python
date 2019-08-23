@@ -61,9 +61,9 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 |  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Captain Rainbow's Color Checklist Tutorial | Pseudocode & Flowchart Diagrams |
 |  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Mad Libs Project | [Request-Response Cycle & MVC Architecture] |
 |  7 |   Thu, Sept 5    | -                             | -                                          | [Intro to Flask] |
-|  8 |   Mon, Sept 9    | -                             | -                                          | Interview Communication & Problem Solving Skills |
+|  8 |   Mon, Sept 9    | -                             | -                                          |  Problem Solving Strategies |
 |  9 |   Tue, Sept 10   | -                             |   Spaceman Project + Code Review           | Code Quality, Reuse & Error Handling |
-|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
+|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
 |  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | [URLs, HTTP, REST & Error Handling] |
 |  12 |   Mon, Sept 16  | -                             |   -                                        | [Testing RESTful Routes] |
 |  13 |   Tue, Sept 17  | -                             |   -                                        | Object-Oriented Programming (OOP) 1 |
