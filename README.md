@@ -56,13 +56,13 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 |  1 |   Mon, Aug 26    | -                             |          -                                 | [Welcome] + [Static Website] |
 |  2 |   Tue, Aug 27    | -                             |          -                                 | [Git & GitHub] |
 |  3 |   Wed, Aug 28    | -                             |          -                                 | Variables, Functions, & Program Design |
-|  4 |   Thu, Aug 29    | -                             | Captain Rainbow's Color Checklist Tutorial | Control Flow & Lists |
+|  4 |   Thu, Aug 29    | -                             |          -                                 | Control Flow & Lists |
 |  - |   Mon, Sept 2    | -                             |         -                                  | **NO CLASS** - Labor Day |
-|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Mad Libs Project | Pseudocode & Flowchart Diagrams |
-|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | -                                      | [Request-Response Cycle & MVC Architecture] |
+|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Captain Rainbow's Color Checklist Tutorial | Pseudocode & Flowchart Diagrams |
+|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Mad Libs Project | [Request-Response Cycle & MVC Architecture] |
 |  7 |   Thu, Sept 5    | -                             | -                                          | [Intro to Flask] |
-|  8 |   Mon, Sept 9    | -                             | Spaceman Project + Code Review                           | Interview Communication & Problem Solving Skills |
-|  9 |   Tue, Sept 10   | -                             |   -                                        | Code Quality, Reuse & Error Handling |
+|  8 |   Mon, Sept 9    | -                             | -                                          | Interview Communication & Problem Solving Skills |
+|  9 |   Tue, Sept 10   | -                             |   Spaceman Project + Code Review           | Code Quality, Reuse & Error Handling |
 |  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Interview Communication & Problem Solving Skills <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
 |  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | [URLs, HTTP, REST & Error Handling] |
 |  12 |   Mon, Sept 16  | -                             |   -                                        | [Testing RESTful Routes] |
@@ -99,6 +99,10 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 [RESTful APIs & Deployment Environments]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/11-RESTful-APIs-and-Deployment-Environments
 
 ## Class Assignments
+
+### Homework
+
+In addition to the assignments below, you will have smaller coding challenges, generally assigned at the end of a class. Please refer to the individual lesson materials for instructions/due dates on these smaller assignments
 
 ### Quizzes
 
