@@ -51,36 +51,49 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
 ### Course Calendar
 
-| Class |      Date     |          Quiz Topics          |       Assignments Due         |                 Topics                   |
-|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|:-----------------------------:|
-|  1 |   Mon, Aug 26    | -                             |          -                                 | [Welcome] + [Static Website] |
-|  2 |   Tue, Aug 27    | -                             |          -                                 | [Git & GitHub] |
-|  3 |   Wed, Aug 28    | -                             |          -                                 | Variables, Functions, & Program Design |
-|  4 |   Thu, Aug 29    | -                             |          -                                 | Control Flow & Lists |
-|  - |   Mon, Sept 2    | -                             |         -                                  | **NO CLASS** - Labor Day |
-|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Captain Rainbow's Color Checklist Tutorial | Pseudocode & Flowchart Diagrams |
-|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | Mad Libs Project | [Request-Response Cycle & MVC Architecture] |
-|  7 |   Thu, Sept 5    | -                             | -                                          | [Intro to Flask] |
-|  8 |   Mon, Sept 9    | -                             | -                                          |  Problem Solving Strategies |
-|  9 |   Tue, Sept 10   | -                             |   Spaceman Project + Code Review           | Code Quality, Reuse & Error Handling |
-|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | - | Debugging & Testing |
-|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | -         | [URLs, HTTP, REST & Error Handling] |
-|  12 |   Mon, Sept 16  | -                             |   -                                        | [Testing RESTful Routes] |
-|  13 |   Tue, Sept 17  | -                             |   -                                        | Object-Oriented Programming (OOP) 1 |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | GIF Search Project + Pair Programming Session | [Document-based Databases] |
-|  15 |   Thu, Sept 19  | -                             |  -                                         | [ERDs, Resource Associations, & MongoDB] |
-|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 |  -                                       | OOP 2: Encapsulation & Inheritance |
-|  17 |   Tue, Sept 24  | -                             | Super Hero Team Dueler Tutorial + Code Review            | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | Playlistr Tutorial | [Project Planning & User-Centered Development]|
-| 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  -                                         |  Herd Immunity Simulation |
-| 20 |   Mon, Sept 30   | -                             |  -                                         | [The DOM & Bootstrap] |
-| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | - | Contractor Project Lab Day |
-| 22 |   Wed, Oct 2     | -                             | -                                          | [RESTful APIs & Deployment Environments] |
-| 23 |   Thu, Oct 3     | -                             | -                                          | Computer Components |
-| 24 |   Mon, Oct 7     | -                             | -                                          | Herd Immunity Lab |
-| 25 |   Tue, Oct 8     | -                             | -                                          | CPU Instructions & Memory |
-| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | - | Project Lab Day |
-| 27 |   Thu, Oct 10    | - | Herd Immunity Simulation Project <br/> Contractor Project + Code Review + Pair Program Session | Final Contractor Project Presentations |
+| Class |      Date     |          Quiz Topics          |                 Topics                   |
+|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|
+|  1 |   Mon, Aug 26    | -                             | [Welcome] + [Static Website] |
+|  2 |   Tue, Aug 27    | -                             | [Git & GitHub] |
+|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design |
+|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists |
+|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day |
+|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Pseudocode & Flowchart Diagrams |
+|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | [Request-Response Cycle & MVC Architecture] |
+|  7 |   Thu, Sept 5    | -                             | [Intro to Flask] |
+|  8 |   Mon, Sept 9    | -                             |  Problem Solving Strategies |
+|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling |
+|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | Debugging & Testing |
+|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | [URLs, HTTP, REST & Error Handling] |
+|  12 |   Mon, Sept 16  | -                             | [Testing RESTful Routes] |
+|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1 |
+|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] |
+|  15 |   Thu, Sept 19  | -                             | [ERDs, Resource Associations, & MongoDB] |
+|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 | OOP 2: Encapsulation & Inheritance |
+|  17 |   Tue, Sept 24  | -                             | OOP 3: Polymorphism |
+|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [Project Planning & User-Centered Development]|
+| 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  Herd Immunity Simulation |
+| 20 |   Mon, Sept 30   | -                             | [The DOM & Bootstrap] |
+| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | Contractor Project Lab Day |
+| 22 |   Wed, Oct 2     | -                             | [RESTful APIs & Deployment Environments] |
+| 23 |   Thu, Oct 3     | -                             | Computer Components |
+| 24 |   Mon, Oct 7     | -                             | Herd Immunity Lab |
+| 25 |   Tue, Oct 8     | -                             | CPU Instructions & Memory |
+| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | Project Lab Day |
+| 27 |   Thu, Oct 10    | - | Final Contractor Project Presentations |
+
+### Assignment Schedule
+
+|                   Submission                                |  Date Assigned  |    Due Date    |        Submission Form.       |
+|:-----------------------------------------------------------:|:---------------:|:--------------:|:-----------------------------:|
+|  [Captain Rainbow's Color Checklist][]                          |   Wed, Aug 23   |    Tue, Sept 3  |       |
+|  [Mad Libs][]                                                   | Wed, Aug 23     |    Wed, Sept 4  |       |
+|  [Spaceman][] + Code Review                                     | Tue, Sept 3     |    Tue, Sept 10 |       |
+|  [GIF Search][] + Pair Programming                              | Thu, Sept 5     |    Wed, Sept 18 |       |
+|  [Super Hero Team Dueler][] + Code Review                       | Tu, Sept 17     |    Tue, Sept 24 |       |
+|  [Playlistr][]                                                  | Tu, Sept 18     |    Wed, Sept 25 |       |
+|  [Herd Immunity Simulation][]                                   | Thu, Sept 26    |    Thu, Oct 10  |       |
+|  [Contractor Project][] + Code Review + Pair Program Session    | Thu, Sept 26    |    Thu, Oct 10  |       |
 
 [Welcome]:https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/edit?usp=sharing
 
@@ -97,6 +110,8 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 [Project Planning & User-Centered Development]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/09-Project-Planning-and-User-Centered-Development
 [The DOM & Bootstrap]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/10-The-DOM-and-Bootstrap
 [RESTful APIs & Deployment Environments]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/11-RESTful-APIs-and-Deployment-Environments
+
+<!-- CS LESSONS -->
 
 ## Class Assignments
 
@@ -128,9 +143,9 @@ Please refer to class materials to see which assignments require code reviews or
 
 **Note: Please reference the above schedule for tutorial due dates.**
 
-- [Captain Rainbow's Color Checklist](https://make.sc/rainbow-checklist): Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
-- [Super Hero Team Dueler](http://make.sc/superhero-team-dueler): Apply your OOP knowledge by building a super hero game!
-- [Playlistr](https://www.makeschool.com/academy/track/playlistr-video-playlists-with-flask-and-mongodb-1c): Video playlists with Flask and MongoDB!
+- [Captain Rainbow's Color Checklist][]: Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
+- [Super Hero Team Dueler][]: Apply your OOP knowledge by building a super hero game!
+- [Playlistr][]: Video playlists with Flask and MongoDB!
 
 
 ### Projects
@@ -139,11 +154,23 @@ Please refer to class materials to see which assignments require code reviews or
 
 **Note 2:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A project will not be considered complete unless it satisfies all of the the requirements as outlined in the spec. 
 
-- [GIF Search](https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing): Build a website that searches GIFs using the Tenor API
-- [Mad Libs](https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing): Build a mad libs game in your terminal using Python
-- [Spaceman](https://docs.google.com/document/d/1y1WPgJERAuLRJjeSXTf5znjhsrtPjnzPKfD03_f6v7w/edit?usp=sharing): Build a word guessing game in your terminal using Python
-- [Herd Immunity Simulation](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/HerdImmunity): Apply all of your learnings from your CS lessons to create a simulation that models how a virus moves through a population where some (but not all) of a population is vaccinated against this virus.
-- [Contractor Project](https://docs.google.com/document/d/1C8eOyLBeGMKJ2y50QwLU5tWjNb2JVcpAE4khUBIfm0U/edit?usp=sharing): Apply all of your learnings from your BEW lessons to create a website for a store of your choosing!
+- [GIF Search][]: Build a website that searches GIFs using the Tenor API
+- [Mad Libs][]: Build a mad libs game in your terminal using Python
+- [Spaceman][]: Build a word guessing game in your terminal using Python
+- [Herd Immunity Simulation][]: Apply all of your learnings from your CS lessons to create a simulation that models how a virus moves through a population where some (but not all) of a population is vaccinated against this virus.
+- [Contractor Project][]: Apply all of your learnings from your BEW lessons to create a website for a store of your choosing!
+
+<!-- TUTORIALS -->
+[Captain Rainbow's Color Checklist]: https://make.sc/rainbow-checklist
+[Super Hero Team Dueler]: http://make.sc/superhero-team-dueler
+[Playlistr]: https://www.makeschool.com/academy/track/playlistr-video-playlists-with-flask-and-mongodb-1c
+
+<!-- PROJECTS -->
+[GIF Search]: https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing
+[Mad Libs]: https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing
+[Spaceman]: https://docs.google.com/document/d/1y1WPgJERAuLRJjeSXTf5znjhsrtPjnzPKfD03_f6v7w/edit?usp=sharing
+[Herd Immunity Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/HerdImmunity
+[Contractor Project]: https://docs.google.com/document/d/1C8eOyLBeGMKJ2y50QwLU5tWjNb2JVcpAE4khUBIfm0U/edit?usp=sharing
 
 ## Evaluation
 
