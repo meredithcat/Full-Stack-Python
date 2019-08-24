@@ -84,15 +84,15 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
 ### Assignment Schedule
 
-|                   Submission                                |  Date Assigned  |    Due Date    |        Submission Form.       |
+|                   Assignment                                |  Date Assigned  |    Due Date    |        Submission Form       |
 |:-----------------------------------------------------------:|:---------------:|:--------------:|:-----------------------------:|
-|  [Captain Rainbow's Color Checklist][]                          |   Wed, Aug 23   |    Tue, Sept 3  |       |
-|  [Mad Libs][]                                                   | Wed, Aug 23     |    Wed, Sept 4  |       |
-|  [Spaceman][] + Code Review                                     | Tue, Sept 3     |    Tue, Sept 10 |       |
+|  [Captain Rainbow's Color Checklist][]                          |   Wed, Aug 23   |    Tue, Sept 3  |  make.sc/submit-rainbow-checklist     |
+|  [Mad Libs][]                                                   | Wed, Aug 23     |    Wed, Sept 4  |  make.sc/submit-mad-libs     |
+|  [Spaceman][] + Code Review                                     | Tue, Sept 3     |    Tue, Sept 10 |  make.sc/submit-spaceman     |
 |  [GIF Search][] + Pair Programming                              | Thu, Sept 5     |    Wed, Sept 18 |       |
-|  [Super Hero Team Dueler][] + Code Review                       | Tu, Sept 17     |    Tue, Sept 24 |       |
+|  [Super Hero Team Dueler][] + Code Review                       | Tu, Sept 17     |    Tue, Sept 24 |  make.sc/submit-superheroes     |
 |  [Playlistr][]                                                  | Tu, Sept 18     |    Wed, Sept 25 |       |
-|  [Herd Immunity Simulation][]                                   | Thu, Sept 26    |    Thu, Oct 10  |       |
+|  [Herd Immunity Simulation][]                                   | Thu, Sept 26    |    Thu, Oct 10  |  make.sc/submit-herd-immunity     |
 |  [Contractor Project][] + Code Review + Pair Program Session    | Thu, Sept 26    |    Thu, Oct 10  |       |
 
 [Welcome]:https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/edit?usp=sharing
