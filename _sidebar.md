@@ -1,6 +1,4 @@
 - **[Syllabus](README.md)**
-- **Lessons**
-  - [Variables and Functions](https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/README.md)
-  - [Request-Response Cycle and MVC Architecture](https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/01.%20Request-Response%20Cycle%20and%20MVC%20Architecture)
-- **Tutorials**
-- **Projects**
+- **Course Websites**
+  - [CS 1.1: Intro to Programming](https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/)
+  - [BEW 1.1: RESTful & Resourceful MVC Architecture](https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/)
