@@ -121,7 +121,7 @@ In addition to the assignments below, you will have smaller coding challenges, g
 
 ### Quizzes
 
-There will be **11 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your _total quiz score will be based off of the other nine_.
+There will be **10 quizzes** held during this course. **Please reference the above schedule for quiz topics and dates.** These quizzes will be used in place of a final exam. Your lowest two quiz scores will be dropped, so your _total quiz score will be based off of the other nine_.
 
 Quizzes will cover all topics outlined in the schedule, with the **exception** of the following:
 
