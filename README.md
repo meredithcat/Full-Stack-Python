@@ -1,8 +1,8 @@
-# Full Stack Python
+# Full Stack Python (BEW 1.1 + CS 1.1)
 
 ## Course Description
 
-Welcome to your first term at Make School! This course is a combination of our CS 1.1 and BEW 1.1 courses, with topics interlaced in order to give you a cohesive and complimentary learning experience. You'll learn how to turn specifications and word problems into code, build websites from the ground up, get familiar with a new language, and everything in between. 
+Welcome to your first term at Make School! This course is a combination of our CS 1.1 and BEW 1.1 courses, with topics interlaced in order to give you a cohesive and complimentary learning experience. You'll learn how to turn specifications and word problems into code, build websites from the ground up, get familiar with a new language, and everything in between.
 
 ### Why you should know this
 
@@ -20,7 +20,6 @@ By the end of the course, you will be able to ...
 1. Implement programming best practices, debugging, and testing in Python.
 
 ### BEW 1.1
-
 1. Explain the MVC architecture for web server development.
 1. Use Resourceful Routes and explain the importance of Resourceful web architecture.
 1. Read and write to a Document-Based (NoSQL) database using a Object Document Mapper (ODM)
@@ -29,76 +28,84 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-### Course Dates
+**Course Dates:** Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 
-Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
+**Class Times for Sections A and B:**
 
-### Class Times
+- Monday & Wednesday at 1:30–3:20pm
+- Tuesday & Thursday at 9:30–11:20am
+- _Lab Time:_ Tuesday at 3:30–5:00pm
+- _Lab Time:_ Thursday at 1:30–3:00pm
 
-**Section A and B:**
+**Class Times for Sections C and D:**
 
-- Monday, Wednesday 1:30–3:20pm 
-- Tuesday, Thursday, 9:30-11:20am
-- _Lab Time:_ Tuesday, 3:30-5:00pm
-- _Lab Time:_ Thursday, 1:30-3:00pm
-
-**Section C and D:**
-
-- Monday, Wednesday 3:30–5:20pm 
-- Tuesday, Thursday, 1:30-3:20pm
-- _Lab Time:_ Tuesday, 9:30-11:00am
-- _Lab Time:_ Thursday, 3:30-5:00pm 
+- Monday & Wednesday at 3:30–5:20pm
+- Tuesday & Thursday at 1:30–3:20pm
+- _Lab Time:_ Tuesday at 9:30–11:00am
+- _Lab Time:_ Thursday at 3:30–5:00pm
 
 ### Course Calendar
 
-| Class |      Date     |          Quiz Topics          |                 Topics                   |
-|:-----:|:-------------:|:-----------------------------:|:----------------------------------------:|
-|  1 |   Mon, Aug 26    | -                             | [Welcome] + [Static Website] |
-|  2 |   Tue, Aug 27    | -                             | [Git & GitHub] |
-|  3 |   Wed, Aug 28    | -                             | Variables, Functions, & Program Design |
-|  4 |   Thu, Aug 29    | -                             | Control Flow & Lists |
-|  - |   Mon, Sept 2    | -                             | **NO CLASS** - Labor Day |
-|  5 |   Tue, Sept 3    | Variables, Functions, & Program Design <br/> Control Flow & Lists | Pseudocode & Flowchart Diagrams |
-|  6 |   Wed, Sept 4    | Static Website <br/> Git & Github | [Request-Response Cycle & MVC Architecture] |
-|  7 |   Thu, Sept 5    | -                             | [Intro to Flask] |
-|  8 |   Mon, Sept 9    | -                             |  Problem Solving Strategies |
-|  9 |   Tue, Sept 10   | -                             | Code Quality, Reuse & Error Handling |
-|  10 |   Wed, Sept 11  | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | Debugging & Testing |
-|  11 |   Thu, Sept 12  | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | [URLs, HTTP, REST & Error Handling] |
-|  12 |   Mon, Sept 16  | -                             | [Testing RESTful Routes] |
-|  13 |   Tue, Sept 17  | -                             | Object-Oriented Programming (OOP) 1 |
-|  14 |   Wed, Sept 18  | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] |
-|  15 |   Thu, Sept 19  | -                             | [ERDs, Resource Associations, & MongoDB] |
-|  16 |   Mon, Sept 23  | Debugging & Testing <br/> OOP 1 | OOP 2: Encapsulation & Inheritance |
-|  17 |   Tue, Sept 24  | -                             | OOP 3: Polymorphism |
-|  18 |   Wed, Sept 25  | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [Project Planning & User-Centered Development]|
-| 19 |   Thu, Sept 26   | OOP 2<br/> OOP 3             |  Herd Immunity Simulation |
-| 20 |   Mon, Sept 30   | -                             | [The DOM & Bootstrap] |
-| 21 |   Tue, Oct 1     | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | Contractor Project Lab Day |
-| 22 |   Wed, Oct 2     | -                             | [RESTful APIs & Deployment Environments] |
-| 23 |   Thu, Oct 3     | -                             | Computer Components |
-| 24 |   Mon, Oct 7     | -                             | Herd Immunity Lab |
-| 25 |   Tue, Oct 8     | -                             | CPU Instructions & Memory |
-| 26 |   Wed, Oct 9     | RESTful APIs & Deployment Environments <br/> Computer Components <br/> CPU Instructions & Memory   | Project Lab Day |
-| 27 |   Thu, Oct 10    | - | Final Contractor Project Presentations |
+| Class |   Date   |          Quiz Topics          |              Class Topics               |
+|:--:|:-----------:|:-----------------------------:|:---------------------------------------:|
+|  1 | Mon, Aug 26 | -                             | [Welcome] + [Static Website] |
+|  2 | Tue, Aug 27 | -                             | [Git & GitHub] |
+|  3 | Wed, Aug 28 | -                             | [Variables, Functions & Program Design] |
+|  4 | Thu, Aug 29 | -                             | [Control Flow & Lists] |
+|  - | Mon, Sep 2  | -                             | **NO CLASS** - Labor Day |
+|  5 | Tue, Sep 3  | Variables, Functions & Program Design <br/> Control Flow & Lists | [Pseudocode & Flowchart Diagrams] |
+|  6 | Wed, Sep 4  | Static Website <br/> Git & Github | [Request-Response Cycle & MVC Architecture] |
+|  7 | Thu, Sep 5  | -                             | [Intro to Flask] |
+|  8 | Mon, Sep 9  | -                             | [Problem Solving Strategy] |
+|  9 | Tue, Sep 10 | -                             | [Code Quality, Reuse & Error Handling] |
+| 10 | Wed, Sep 11 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | [Debugging & Testing] |
+| 11 | Thu, Sep 12 | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | [URLs, HTTP, REST & Error Handling] |
+| 12 | Mon, Sep 16 | -                             | [Testing RESTful Routes] |
+| 13 | Tue, Sep 17 | -                             | [OOP Part 1: Encapsulation] |
+| 14 | Wed, Sep 18 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] |
+| 15 | Thu, Sep 19 | -                             | [ERDs, Resource Associations, & MongoDB] |
+| 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] |
+| 17 | Tue, Sep 24 | -                             | [OOP Part 3: Polymorphism] |
+| 18 | Wed, Sep 25 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [Project Planning & User-Centered Development]|
+| 19 | Thu, Sep 26 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] |
+| 20 | Mon, Sep 30 | -                             | [The DOM & Bootstrap] |
+| 21 | Tue, Oct 1  | Project Planning & User-Centered Development <br/> The DOM & Bootstrap | Contractor Project Lab Day |
+| 22 | Wed, Oct 2  | -                             | [RESTful APIs & Deployment Environments] |
+| 23 | Thu, Oct 3  | -                             | [Computer Components & Organization] |
+| 24 | Mon, Oct 7  | -                             | Herd Immunity Lab |
+| 25 | Tue, Oct 8  | -                             | [CPU Instructions & Memory] |
+| 26 | Wed, Oct 9  | RESTful APIs & Deployment Environments <br/> Computer Components & Organization <br/> CPU Instructions & Memory | Project Lab Day |
+| 27 | Thu, Oct 10 | -                             | Final Contractor Project Presentations |
 
 ### Assignment Schedule
 
-|                   Assignment                                |  Date Assigned  |    Due Date    |        Submission Form       |
-|:-----------------------------------------------------------:|:---------------:|:--------------:|:-----------------------------:|
-|  [Captain Rainbow's Color Checklist][]                          |   Wed, Aug 23   |    Tue, Sept 3  |  make.sc/submit-rainbow-checklist     |
-|  [Mad Libs][]                                                   | Wed, Aug 23     |    Wed, Sept 4  |  make.sc/submit-mad-libs     |
-|  [Spaceman][] + Code Review                                     | Tue, Sept 3     |    Tue, Sept 10 |  make.sc/submit-spaceman     |
-|  [GIF Search][] + Pair Programming                              | Thu, Sept 5     |    Wed, Sept 18 |       |
-|  [Super Hero Team Dueler][] + Code Review                       | Tu, Sept 17     |    Tue, Sept 24 |  make.sc/submit-superheroes     |
-|  [Playlistr][]                                                  | Tu, Sept 18     |    Wed, Sept 25 |       |
-|  [Herd Immunity Simulation][]                                   | Thu, Sept 26    |    Thu, Oct 10  |  make.sc/submit-herd-immunity     |
-|  [Contractor Project][] + Code Review + Pair Program Session    | Thu, Sept 26    |    Thu, Oct 10  |       |
+|                        Assignment                         | Date Assigned |   Due Date   |       Submission Form       |
+|:---------------------------------------------------------:|:-------------:|:------------:|:---------------------------:|
+| [Captain Rainbow's Color Checklist]                       |  Wed, Aug 23  |  Tue, Sep 3  | [Submit Rainbow Checklist]  |
+| [Mad Libs]                                                |  Wed, Aug 23  |  Wed, Sep 4  | [Submit Mad Libs]           |
+| [Spaceman] + Code Review                                  |  Tue, Sep 3   |  Tue, Sep 10 | [Submit Spaceman]           |
+| [GIF Search] + Pair Programming                           |  Thu, Sep 5   |  Wed, Sep 18 | [Submit GIF Search]         |
+| [Super Hero Team Dueler] + Code Review                    |  Tue, Sep 17  |  Tue, Sep 24 | [Submit Superheroes]        |
+| [Playlistr]                                               |  Tue, Sep 18  |  Wed, Sep 25 | [Submit Playlistr]      |
+| [Herd Immunity Simulation]                                |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Herd Immunity]      |
+| [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
 
-[Welcome]:https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/edit?usp=sharing
+<!-- BEW PROJECTS -->
+<!-- [Submit GIF Search]: https://make.sc/submit-gif-search -->
+<!-- [Submit Playlistr]: https://make.sc/submit-playlistr -->
+<!-- [Submit Contractor Project]: https://make.sc/submit-contractor-project -->
+
+<!-- CS PROJECTS -->
+[Submit Rainbow Checklist]: https://make.sc/submit-rainbow-checklist
+[Submit Mad Libs]: https://make.sc/submit-mad-libs
+[Submit Spaceman]: https://make.sc/submit-spaceman
+[Submit Superheroes]: https://make.sc/submit-superheroes
+[Submit Herd Immunity]: https://make.sc/submit-herd-immunity
+
+
+[Welcome]: https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/preview
 
 <!--- BEW LESSONS -->
-
 [Static Website]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/01-Static-Website
 [Git & GitHub]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/02-Git-and-GitHub
 [Request-Response Cycle & MVC Architecture]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/03-Request-Response-Cycle-and-MVC-Architecture
@@ -112,6 +119,19 @@ Monday, August 26 – Thursday, October 10, 2019 (7 weeks)
 [RESTful APIs & Deployment Environments]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/11-RESTful-APIs-and-Deployment-Environments
 
 <!-- CS LESSONS -->
+[Variables, Functions & Program Design]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/01-Variables-Functions-Program-Design.md
+[Control Flow & Lists]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/02-Control-Flow-Lists.md
+[Pseudocode & Flowchart Diagrams]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/03-Pseudocode-Flowchart-Diagrams.md
+[Problem Solving Strategy]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/04-Problem-Solving-Strategy.md
+[Code Quality, Reuse & Error Handling]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/05-Code-Quality-Reuse-Error-Handling.md
+[Debugging & Testing]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/06-Debugging-Testing.md
+[OOP Part 1: Encapsulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/07-OOP-1-Encapsulation.md
+[OOP Part 2: Inheritance]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/08-OOP-2-Inheritance.md
+[OOP Part 3: Polymorphism]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/09-OOP-3-Polymorphism.md
+[Herd Immunity Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/10-Herd-Immunity-Simulation.md
+[Computer Components & Organization]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/11-Computer-Components.md
+[CPU Instructions & Memory]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/12-CPU-Instructions-Memory.md
+
 
 ## Class Assignments
 
@@ -152,7 +172,7 @@ Please refer to class materials to see which assignments require code reviews or
 
 **Note 1: Please reference the above schedule for project due dates.**
 
-**Note 2:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A project will not be considered complete unless it satisfies all of the the requirements as outlined in the spec. 
+**Note 2:** Project specs are listed below. For each project, the rubric (how you will be graded) is linked within each spec. A project will not be considered complete unless it satisfies all of the the requirements as outlined in the spec.
 
 - [GIF Search][]: Build a website that searches GIFs using the Tenor API
 - [Mad Libs][]: Build a mad libs game in your terminal using Python
@@ -186,10 +206,10 @@ For example, if by the end of the term you meet the evaluation criteria for CS 1
 
 ## Make School Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School – all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagiarism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
