@@ -81,8 +81,8 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |       Submission Form       |
 |:---------------------------------------------------------:|:-------------:|:------------:|:---------------------------:|
-| [Captain Rainbow's Color Checklist]                       |  Wed, Aug 23  |  Tue, Sep 3  | [Submit Rainbow Checklist]  |
-| [Mad Libs]                                                |  Wed, Aug 23  |  Wed, Sep 4  | [Submit Mad Libs]           |
+| [Captain Rainbow's Color Checklist]                       |  Wed, Aug 28  |  Tue, Sep 3  | [Submit Rainbow Checklist]  |
+| [Mad Libs]                                                |  Wed, Aug 28  |  Tue, Sep 3  | [Submit Mad Libs]           |
 | [Spaceman] + Code Review                                  |  Tue, Sep 3   |  Tue, Sep 10 | [Submit Spaceman]           |
 | [GIF Search] + Pair Programming                           |  Thu, Sep 5   |  Wed, Sep 18 | [Submit GIF Search]         |
 | [Super Hero Team Dueler] + Code Review                    |  Tue, Sep 17  |  Tue, Sep 24 | [Submit Superheroes]        |
