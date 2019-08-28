@@ -187,7 +187,7 @@ Please refer to class materials to see which assignments require code reviews or
 
 <!-- PROJECTS -->
 [GIF Search]: https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing
-[Mad Libs]: https://docs.google.com/document/d/1suR3hzqfGSL9o99rNbDrcU0N1Z47EREubP38IY4Ptuc/edit?usp=sharing
+[Mad Libs]: https://make.sc/madlibs
 [Spaceman]: https://docs.google.com/document/d/1y1WPgJERAuLRJjeSXTf5znjhsrtPjnzPKfD03_f6v7w/edit?usp=sharing
 [Herd Immunity Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/HerdImmunity
 [Contractor Project]: https://docs.google.com/document/d/1C8eOyLBeGMKJ2y50QwLU5tWjNb2JVcpAE4khUBIfm0U/edit?usp=sharing
