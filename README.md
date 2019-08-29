@@ -86,13 +86,13 @@ By the end of the course, you will be able to ...
 | [Spaceman] + Code Review                                  |  Tue, Sep 3   |  Tue, Sep 10 | [Submit Spaceman]           |
 | [GIF Search] + Pair Programming                           |  Thu, Sep 5   |  Wed, Sep 18 | [Submit GIF Search]         |
 | [Super Hero Team Dueler] + Code Review                    |  Tue, Sep 17  |  Tue, Sep 24 | [Submit Superheroes]        |
-| [Playlistr]                                               |  Tue, Sep 18  |  Wed, Sep 25 | [Submit Playlistr]      |
+| [Playlister]                                               |  Tue, Sep 18  |  Wed, Sep 25 | [Submit Playlister]      |
 | [Herd Immunity Simulation]                                |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Herd Immunity]      |
 | [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
 
 <!-- BEW PROJECTS -->
 <!-- [Submit GIF Search]: https://make.sc/submit-gif-search -->
-<!-- [Submit Playlistr]: https://make.sc/submit-playlistr -->
+<!-- [Submit Playlister]: https://make.sc/submit-playlister -->
 <!-- [Submit Contractor Project]: https://make.sc/submit-contractor-project -->
 
 <!-- CS PROJECTS -->
@@ -165,7 +165,7 @@ Please refer to class materials to see which assignments require code reviews or
 
 - [Captain Rainbow's Color Checklist][]: Get more practice writing functions in Python, and learn a basic understanding of what it means to CRUD a resource!
 - [Super Hero Team Dueler][]: Apply your OOP knowledge by building a super hero game!
-- [Playlistr][]: Video playlists with Flask and MongoDB!
+- [Playlister][]: Video playlists with Flask and MongoDB!
 
 
 ### Projects
@@ -183,7 +183,7 @@ Please refer to class materials to see which assignments require code reviews or
 <!-- TUTORIALS -->
 [Captain Rainbow's Color Checklist]: https://make.sc/rainbow-checklist
 [Super Hero Team Dueler]: http://make.sc/superhero-team-dueler
-[Playlistr]: https://make.sc/playlistr
+[Playlister]: https://make.sc/playlister
 
 <!-- PROJECTS -->
 [GIF Search]: https://make.sc/gif-search
