@@ -58,7 +58,7 @@ By the end of the course, you will be able to ...
 |  7 | Thu, Sep 5  | -                             | [Intro to Flask] | Dani Roxberry | Meredith Murphy |
 |  8 | Mon, Sep 9  | -                             | [Problem Solving Strategy] | Jess Dahmen | Alan Davis |
 |  9 | Tue, Sep 10 | -                             | [Code Quality, Reuse & Error Handling] | Jess Dahmen | Alan Davis |
-| 10 | Wed, Sep 11 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling                               | [Debugging & Testing] | Jess Dahmen | Alan Davis |
+| 10 | Wed, Sep 11 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [Debugging & Testing] | Jess Dahmen | Alan Davis |
 | 11 | Thu, Sep 12 | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | [URLs, HTTP, REST & Error Handling] | Dani Roxberry | Meredith Murphy |
 | 12 | Mon, Sep 16 | -                             | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Tue, Sep 17 | -                             | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
