@@ -106,31 +106,31 @@ By the end of the course, you will be able to ...
 [Welcome]: https://docs.google.com/presentation/d/1dHzEi23mK5ZmuSErCTlN66puMU-_Dhs0PctY7Y3kafU/preview
 
 <!--- BEW LESSONS -->
-[Static Website]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/01-Static-Website
-[Git & GitHub]:https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/02-Git-and-GitHub
-[Request-Response Cycle & MVC Architecture]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/03-Request-Response-Cycle-and-MVC-Architecture
-[Intro to Flask]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/04-Intro-to-Flask
-[URLs, HTTP, REST & Error Handling]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/05-URLs-HTTP-REST-and-Reading-Errors
-[Testing RESTful Routes]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/06-Testing-RESTful-Routes
-[Document-based Databases]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/07-Document-Based-Databases
-[ERDs, Resource Associations, & MongoDB]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/08-ERDs-Resource-Associations-and-MongoDB
-[Project Planning & User-Centered Development]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/09-Project-Planning-and-User-Centered-Development
-[The DOM & Bootstrap]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/10-The-DOM-and-Bootstrap
-[RESTful APIs & Deployment Environments]: https://github.com/Make-School-Courses/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/tree/master/Lessons/11-RESTful-APIs-and-Deployment-Environments
+[Static Website]:https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/01-Static-Website/README
+[Git & GitHub]:https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/02-Git-and-GitHub/README
+[Request-Response Cycle & MVC Architecture]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/03-Request-Response-Cycle-and-MVC-Architecture/README
+[Intro to Flask]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/04-Intro-to-Flask/README
+[URLs, HTTP, REST & Error Handling]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/05-URLs-HTTP-REST-and-Reading-Errors/README
+[Testing RESTful Routes]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/06-Testing-RESTful-Routes/README
+[Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Document-Based-Databases/README
+[ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/08-ERDs-Resource-Associations-and-MongoDB/README
+[Project Planning & User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-Project-Planning-and-User-Centered-Development/README
+[The DOM & Bootstrap]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/10-The-DOM-and-Bootstrap/README
+[RESTful APIs & Deployment Environments]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/11-RESTful-APIs-and-Deployment-Environments/README
 
 <!-- CS LESSONS -->
-[Variables, Functions & Program Design]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/01-Variables-Functions-Program-Design.md
-[Control Flow & Lists]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/02-Control-Flow-Lists.md
-[Pseudocode & Flowchart Diagrams]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/03-Pseudocode-Flowchart-Diagrams.md
-[Problem Solving Strategy]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/04-Problem-Solving-Strategy.md
-[Code Quality, Reuse & Error Handling]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/05-Code-Quality-Reuse-Error-Handling.md
-[Debugging & Testing]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/06-Debugging-Testing.md
-[OOP Part 1: Encapsulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/07-OOP-1-Encapsulation.md
-[OOP Part 2: Inheritance]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/08-OOP-2-Inheritance.md
-[OOP Part 3: Polymorphism]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/09-OOP-3-Polymorphism.md
-[Herd Immunity Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/10-Herd-Immunity-Simulation.md
-[Computer Components & Organization]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/11-Computer-Components.md
-[CPU Instructions & Memory]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Lessons/12-CPU-Instructions-Memory.md
+[Variables, Functions & Program Design]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/01-Variables-Functions-Program-Design
+[Control Flow & Lists]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/02-Control-Flow-Lists
+[Pseudocode & Flowchart Diagrams]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/03-Pseudocode-Flowchart-Diagrams
+[Problem Solving Strategy]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/04-Problem-Solving-Strategy
+[Code Quality, Reuse & Error Handling]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/05-Code-Quality-Reuse-Error-Handling
+[Debugging & Testing]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/06-Debugging-Testing
+[OOP Part 1: Encapsulation]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/07-OOP-1-Encapsulation
+[OOP Part 2: Inheritance]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/08-OOP-2-Inheritance
+[OOP Part 3: Polymorphism]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/09-OOP-3-Polymorphism
+[Herd Immunity Simulation]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/10-Herd-Immunity-Simulation
+[Computer Components & Organization]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/11-Computer-Components
+[CPU Instructions & Memory]: https://make-school-courses.github.io/CS-1.1-Intro-to-Programming/#/Lessons/12-CPU-Instructions-Memory
 
 
 ## Class Assignments
