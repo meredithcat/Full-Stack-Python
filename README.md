@@ -183,14 +183,14 @@ Please refer to class materials to see which assignments require code reviews or
 <!-- TUTORIALS -->
 [Captain Rainbow's Color Checklist]: https://make.sc/rainbow-checklist
 [Super Hero Team Dueler]: http://make.sc/superhero-team-dueler
-[Playlistr]: https://www.makeschool.com/academy/track/playlistr-video-playlists-with-flask-and-mongodb-1c
+[Playlistr]: https://make.sc/playlistr
 
 <!-- PROJECTS -->
-[GIF Search]: https://docs.google.com/document/d/1symUDRsZ1i2xf8F2mwAGFJtLjbOXqCj0JyrIgTtFNT0/edit?usp=sharing
+[GIF Search]: https://make.sc/gif-search
 [Mad Libs]: https://make.sc/madlibs
-[Spaceman]: https://docs.google.com/document/d/1y1WPgJERAuLRJjeSXTf5znjhsrtPjnzPKfD03_f6v7w/edit?usp=sharing
-[Herd Immunity Simulation]: https://github.com/Make-School-Courses/CS-1.1-Intro-to-Programming/blob/master/Projects/HerdImmunity
-[Contractor Project]: https://docs.google.com/document/d/1C8eOyLBeGMKJ2y50QwLU5tWjNb2JVcpAE4khUBIfm0U/edit?usp=sharing
+[Spaceman]: https://make.sc/spaceman
+[Herd Immunity Simulation]: https://make.sc/herd-immunity
+[Contractor Project]:  https://make.sc/bew1.1-contractor
 
 ## Evaluation
 
