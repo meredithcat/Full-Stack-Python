@@ -54,12 +54,12 @@ By the end of the course, you will be able to ...
 |  4 | Thu, Aug 29 | -                             | [Control Flow & Lists] | Jess Dahmen | Alan Davis |
 |  - | Mon, Sep 2  | -                             | **NO CLASS** - Labor Day | | |
 |  5 | Tue, Sep 3  | Variables, Functions & Program Design <br/> Control Flow & Lists | [Pseudocode & Flowchart Diagrams] | Jess Dahmen | Alan Davis |
-|  6 | Wed, Sep 4  | Static Website <br/> Git & Github | [Request-Response Cycle & MVC Architecture] | Dani Roxberry | Meredith Murphy |
-|  7 | Thu, Sep 5  | -                             | [Intro to Flask] | Dani Roxberry | Meredith Murphy |
+|  6 | Wed, Sep 4  | Static Website <br/> Git & Github | [Intro to Flask] | Dani Roxberry | Meredith Murphy |
+|  7 | Thu, Sep 5  | -                             | [Flask Templating] | Dani Roxberry | Meredith Murphy |
 |  8 | Mon, Sep 9  | -                             | [Problem Solving Strategy] | Jess Dahmen | Alan Davis |
 |  9 | Tue, Sep 10 | -                             | [Code Quality, Reuse & Error Handling] | Jess Dahmen | Alan Davis |
 | 10 | Wed, Sep 11 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [Debugging & Testing] | Jess Dahmen | Alan Davis |
-| 11 | Thu, Sep 12 | Request-Response Cycle & MVC Architecture <br/> Intro to Flask | [URLs, HTTP, REST & Error Handling] | Dani Roxberry | Meredith Murphy |
+| 11 | Thu, Sep 12 | Intro to Flask <br/> Flask Templating | [URLs, HTTP, REST & Error Handling] | Dani Roxberry | Meredith Murphy |
 | 12 | Mon, Sep 16 | -                             | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Tue, Sep 17 | -                             | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
 | 14 | Wed, Sep 18 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
@@ -108,8 +108,8 @@ By the end of the course, you will be able to ...
 <!--- BEW LESSONS -->
 [Static Website]:https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/01-Static-Website/README
 [Git & GitHub]:https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/02-Git-and-GitHub/README
-[Request-Response Cycle & MVC Architecture]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/03-Request-Response-Cycle-and-MVC-Architecture/README
-[Intro to Flask]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/04-Intro-to-Flask/README
+[Intro to Flask]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/03-Intro-To-Flask/README
+[Flask-Templating]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/04-Flask-Templating/README
 [URLs, HTTP, REST & Error Handling]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/05-URLs-HTTP-REST-and-Reading-Errors/README
 [Testing RESTful Routes]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/06-Testing-RESTful-Routes/README
 [Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Document-Based-Databases/README
