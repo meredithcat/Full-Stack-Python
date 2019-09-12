@@ -59,13 +59,13 @@ By the end of the course, you will be able to ...
 |  8 | Mon, Sep 9  | -                             | [Problem Solving Strategy] | Jess Dahmen | Alan Davis |
 |  9 | Tue, Sep 10 | -                             | [URLs, HTTP, REST & Error Handling] | Dani Roxberry | Meredith Murphy |
 | 10 | Wed, Sep 11 | -                             | [Code Quality, Reuse & Error Handling] | Jess Dahmen | Alan Davis |
-| 12 | Thu, Sep 12 | Intro to Flask <br/> Flask Templating | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
+| 12 | Thu, Sep 12 | -                             | Review + GIF Search | Dani Roxberry | Meredith Murphy |
 | 11 | Mon, Sep 16 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [Debugging & Testing] | Jess Dahmen | Alan Davis |
-| 14 | Tue, Sep 17 | - | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
+| 14 | Tue, Sep 17 | Intro to Flask <br/> Flask Templating | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Wed, Sep 18 | -                             | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
-| 15 | Thu, Sep 19 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB] | Dani Roxberry | Meredith Murphy |
+| 15 | Thu, Sep 19 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
-| 17 | Tue, Sep 24 | -                             | [The DOM & Bootstrap] | Dani Roxberry | Meredith Murphy |
+| 17 | Tue, Sep 24 | -                             | [ERDs, Resource Associations, & MongoDB] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
 | 19 | Thu, Sep 26 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [Project Planning & User-Centered Development]| Dani Roxberry | Meredith Murphy |
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
