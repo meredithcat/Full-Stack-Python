@@ -86,7 +86,7 @@ By the end of the course, you will be able to ...
 | [Spaceman] + Code Review                                  |  Tue, Sep 3   |  Wed, Sep 11 | [Submit Spaceman]           |
 | [GIF Search] + Pair Programming                           |  Thu, Sep 5   |  Thu, Sep 19 | [Submit GIF Search]         |
 | [Super Hero Team Dueler] + Code Review                    |  Wed, Sep 18  |  Wed, Sep 25 | [Submit Superheroes]        |
-| [Playlister]                                               |  Tue, Sep 18  |  Thu, Sep 26 | [Submit Playlister]      |
+| [Playlister]                                              |  Thu, Sep 19  |  Thu, Sep 26 | [Submit Playlister]         |
 | [Herd Immunity Simulation]                                |  Mon, Sep 30  |  Thu, Oct 10 | [Submit Herd Immunity]      |
 | [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
 
