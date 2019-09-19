@@ -63,11 +63,11 @@ By the end of the course, you will be able to ...
 | 11 | Mon, Sep 16 | -                             | [Debugging & Testing] | Jess Dahmen | Alan Davis |
 | 14 | Tue, Sep 17 | Intro to Flask <br/> Flask Templating | [Testing RESTful Routes] | Dani Roxberry | Meredith Murphy |
 | 13 | Wed, Sep 18 | Pseudocode & Flowchart Diagrams <br/> Problem Solving Strategies <br/> Code Quality, Reuse & Error Handling | [OOP Part 1: Encapsulation] | Jess Dahmen | Alan Davis |
-| 15 | Thu, Sep 19 | -                             | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
+| 15 | Thu, Sep 19 | -                             | [Model, View, Controller & Review] | Dani Roxberry | Meredith Murphy |
 | 16 | Mon, Sep 23 | Debugging & Testing <br/> OOP 1 | [OOP Part 2: Inheritance] | Jess Dahmen | Alan Davis |
-| 17 | Tue, Sep 24 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [ERDs, Resource Associations, & MongoDB] | Dani Roxberry | Meredith Murphy |
+| 17 | Tue, Sep 24 | URLs, HTTP, REST, & Reading Errors <br/> Testing RESTful Routes | [Document-based Databases] | Dani Roxberry | Meredith Murphy |
 | 18 | Wed, Sep 25 | -                             | [OOP Part 3: Polymorphism] | Jess Dahmen | Alan Davis |
-| 19 | Thu, Sep 26 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [Project Planning & User-Centered Development]| Dani Roxberry | Meredith Murphy |
+| 19 | Thu, Sep 26 | Document-based Databases <br/> ERDs, Resource Associations, & MongoDB | [ERDs, Resource Associations, & MongoDB]| Dani Roxberry | Meredith Murphy |
 | 20 | Mon, Sep 30 | OOP 2 <br/> OOP 3             | [Herd Immunity Simulation] | Jess Dahmen | Alan Davis |
 | 21 | Tue, Oct 1  | - | Contractor Project Lab Day | Dani Roxberry | Meredith Murphy |
 | 22 | Wed, Oct 2  | -                             | [RESTful APIs & Deployment Environments] | Dani Roxberry | Meredith Murphy |
@@ -112,6 +112,7 @@ By the end of the course, you will be able to ...
 [Flask Templating]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/04-Flask-Templating/README
 [URLs, HTTP, REST & Error Handling]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/05-URLs-HTTP-REST-and-Reading-Errors/README
 [Testing RESTful Routes]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/06-Testing-RESTful-Routes/README
+[Model, View, Controller & Review]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Model-View-Controller/README
 [Document-based Databases]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/./Lessons/07-Document-Based-Databases/README
 [ERDs, Resource Associations, & MongoDB]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/08-ERDs-Resource-Associations-and-MongoDB/README
 [Project Planning & User-Centered Development]: https://make-school-courses.github.io/BEW-1.1-RESTful-and-Resourceful-MVC-Architecture/#/Lessons/09-Project-Planning-and-User-Centered-Development/README
