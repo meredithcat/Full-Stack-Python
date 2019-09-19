@@ -137,7 +137,7 @@ By the end of the course, you will be able to ...
 
 ### Homework
 
-In addition to the assignments below, you will have smaller coding challenges, generally assigned at the end of a class. Please refer to the individual lesson materials for instructions/due dates on these smaller assignments
+In addition to the assignments below, you will have smaller coding challenges, generally assigned at the end of a class. Please refer to the individual lesson materials for instructions/due dates on these smaller assignments.
 
 ### Quizzes
 
@@ -191,6 +191,17 @@ Please refer to class materials to see which assignments require code reviews or
 [Spaceman]: https://make.sc/spaceman
 [Herd Immunity Simulation]: https://make.sc/herd-immunity
 [Contractor Project]:  https://make.sc/bew1.1-contractor
+
+### Project Submission
+
+In addition to using the submission forms above, you will be expected to log your progress in the course progress trackers. 
+
+- [CS 1.1 Progress Tracker][]
+- [BEW 1.1 Progress Tracker][]
+
+<!-- PROGRESS TRACKERS -->
+[CS 1.1 Progress Tracker]: https://make.sc/cs11-progress
+[BEW 1.1 Progress Tracker]: https://make.sc/bew1.1-tracker
 
 ## Evaluation
 
