@@ -91,7 +91,7 @@ By the end of the course, you will be able to ...
 | [Contractor Project] + Code Review + Pair Program Session |  Thu, Sep 26  |  Thu, Oct 10 | [Submit Contractor Project] |
 
 <!-- BEW PROJECTS -->
-<!-- [Submit GIF Search]: https://make.sc/submit-gif-search -->
+[Submit GIF Search]: https://make.sc/submit-gif-search
 <!-- [Submit Playlister]: https://make.sc/submit-playlister -->
 <!-- [Submit Contractor Project]: https://make.sc/submit-contractor-project -->
 
