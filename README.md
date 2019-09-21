@@ -226,3 +226,7 @@ For example, if by the end of the term you meet the evaluation criteria for CS 1
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+
+## Making a change
+
+Here is a change.
