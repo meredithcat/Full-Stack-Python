@@ -104,5 +104,10 @@
     <script src="//unpkg.com/prismjs/components/prism-swift.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-typescript.min.js"></script>
     <script src="//unpkg.com/prismjs/components/prism-yaml.min.js"></script>
+    <script>
+      if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('Web/sw.js')
+      } 
+    </script>
   </body>
 </html>
