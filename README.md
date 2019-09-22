@@ -229,4 +229,4 @@ For example, if by the end of the term you meet the evaluation criteria for CS 1
 
 ## Making a change
 
-Final change
+Another change
