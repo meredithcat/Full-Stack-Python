@@ -2,7 +2,7 @@
 
 ## Course Description
 
-making a change
+making another change
 
 Welcome to your first term at Make School! This course is a combination of our CS 1.1 and BEW 1.1 courses, with topics interlaced in order to give you a cohesive and complimentary learning experience. You'll learn how to turn specifications and word problems into code, build websites from the ground up, get familiar with a new language, and everything in between.
 
